@@ -2,6 +2,7 @@ import { Injectable } from '@angular/core';
 import {Observable, of, throwError} from "rxjs";
 import {PageProducts, Product} from "../model/product.model";
 import {UUID} from "angular2-uuid";
+import {ValidationErrors} from "@angular/forms";
 
 @Injectable({
   providedIn: 'root' // dispo dans root means pas besoin de le déclarer
@@ -63,6 +64,24 @@ export class ProductService {
   public addNewProduct(product:Product):Observable<Product>{
     product.id=UUID.UUID();
     this.products.push(product);
+    return of(product);
+  }
+  public getProduct(id:string):Observable<Product>{
+    let product = this.products.find(p=> p.id==id);
+    if(product==undefined) return throwError(()=>new Error("prduct not found"));
+    return of(product);
+  }
+
+  getErrorMessage(fieldName: string, error: ValidationErrors) {
+    if (error['required']) {
+      return fieldName + " is required";
+    } else if (error['min']) {
+      return fieldName + " should be at least " + error['min']['min'];
+    }
+    else return "";
+  }
+  public updateProduct(product:Product):Observable<Product>{
+    this.products=this.products.map(p=>(p.id==product.id)?product:p);
     return of(product);
   }
 }

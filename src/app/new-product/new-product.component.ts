@@ -10,7 +10,7 @@ import {ProductService} from "../services/product.service";
 export class NewProductComponent implements OnInit {
   productFormGroup!: FormGroup;
 
-  constructor(private fb: FormBuilder,private prodService:ProductService) {
+  constructor(private fb: FormBuilder,public prodService:ProductService) {
   }
 
   ngOnInit(): void {
@@ -34,12 +34,4 @@ export class NewProductComponent implements OnInit {
    })
   }
 
-  getErrorMessage(fieldName: string, error: ValidationErrors) {
-    if (error['required']) {
-      return fieldName + " is required";
-    } else if (error['min']) {
-      return fieldName + " should be at least " + error['min']['min'];
-    }
-    else return "";
-  }
 }
