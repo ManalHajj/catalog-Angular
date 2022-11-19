@@ -4,6 +4,7 @@ import {Product} from "../model/product.model";
 import {dashCaseToCamelCase} from "@angular/compiler/src/util";
 import {FormBuilder, FormGroup} from "@angular/forms";
 import {AuthenticationService} from "../services/authentication.service";
+import {Router} from "@angular/router";
 
 @Component({
   selector: 'app-products',
@@ -21,7 +22,8 @@ export class ProductsComponent implements OnInit {
   currentAction:string="all";
 
   constructor(private productService : ProductService, private fb :FormBuilder,
-              public authService : AuthenticationService ) { }
+              public authService : AuthenticationService,
+              private router : Router) { }
 
   ngOnInit(): void { // s'execute au démarage
     this.searchFormGroup=this.fb.group({
@@ -96,5 +98,9 @@ export class ProductsComponent implements OnInit {
     this.handleGetPageProducts();
     else
       this.handleSearchProduct();
+  }
+
+  handleNewProduct() {
+    this.router.navigateByUrl("/admin/newProduct")
   }
 }
