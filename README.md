@@ -69,8 +69,9 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ![image](https://user-images.githubusercontent.com/81756572/205485615-65e8cf3f-e287-46a7-92df-c4b32e769311.png)
 ![image](https://user-images.githubusercontent.com/81756572/205485950-c04ed084-0480-4032-a18e-57bbc178e109.png)
 ![image](https://user-images.githubusercontent.com/81756572/205506913-9201f820-e44b-4a58-9f33-e78b61d148e5.png)
+![image](https://user-images.githubusercontent.com/81756572/205512041-4396de11-fa99-4b8e-9d1e-021f25f8eee7.png)
 
-![image](https://user-images.githubusercontent.com/81756572/205506928-193fb2a1-5549-422d-a796-5288659d1c04.png)
+![image](https://user-images.githubusercontent.com/81756572/205512052-2a267ed5-a1fd-40bc-9d02-ef6976429e2b.png)
 
 ## Communication avec le backend :
 ### importer HttpClientModule 
