@@ -13,7 +13,15 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ## Generate customers component
 ![image](https://user-images.githubusercontent.com/81756572/205483937-7cf5a91f-d735-485b-b28e-fda04c694bd8.png)
 ![image](https://user-images.githubusercontent.com/81756572/205483942-b61f768c-cb05-4923-97fc-bbbc4d404490.png)
+## Generate billing component 
+![image](https://user-images.githubusercontent.com/81756572/205484517-4ca8dc10-7cf8-4975-95e7-d438084b7392.png)
+![image](https://user-images.githubusercontent.com/81756572/205484524-b95e7554-3fc3-47b4-b4db-9a1f2cf76394.png)
+
 
 ## Routes
 ![image](https://user-images.githubusercontent.com/81756572/205484308-04c67cb6-7cda-4c8f-b382-1a282978f26e.png)
+![image](https://user-images.githubusercontent.com/81756572/205484744-4c072718-1361-483c-952f-2263e2cb670a.png)
+![image](https://user-images.githubusercontent.com/81756572/205484972-63c14864-a8ed-4764-b43b-fdc9b94ec05a.png)
+
+
 
