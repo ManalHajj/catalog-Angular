@@ -19,6 +19,7 @@
 ![image](https://user-images.githubusercontent.com/81756572/201528809-0eefce76-fe0e-4578-af40-6ed8f4a1f5ee.png)
 
 ## service d'enregistrement 
+### configurer les routes
 ![image](https://user-images.githubusercontent.com/81756572/201528959-b8286bd1-0da9-4ab8-b947-286d209ccb60.png)
 ![image](https://user-images.githubusercontent.com/81756572/201528993-8f392ec0-f430-430b-bf04-d26950da9086.png)
 
