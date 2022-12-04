@@ -74,6 +74,29 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ### importer HttpClientModule 
 ![image](https://user-images.githubusercontent.com/81756572/205486080-c79542a4-78e5-49b5-abd1-29411ffd6bcb.png)
 
+## Products
+![image](https://user-images.githubusercontent.com/81756572/205506396-f60a0cb7-c667-4aab-883e-a834fc66c52a.png)
+
+### promo off/on
+![image](https://user-images.githubusercontent.com/81756572/205506430-69c31d4c-405a-492f-bfaf-0d80ab13c194.png)
+![image](https://user-images.githubusercontent.com/81756572/205506444-b05f369f-3998-4ccc-a77e-0e47357ec213.png)
+
+## add product
+![image](https://user-images.githubusercontent.com/81756572/205506498-385ccb21-1806-4273-8ba1-2324582039d1.png)
+![image](https://user-images.githubusercontent.com/81756572/205506516-c3195fc4-da8e-4bdf-aecd-c3f01a502352.png)
+
+## delete product 
+![image](https://user-images.githubusercontent.com/81756572/205506538-c48f2588-2a4d-4ac7-b33d-ef634bdf5a58.png)
+![image](https://user-images.githubusercontent.com/81756572/205506541-f993ba9c-6d0c-4360-8eed-498dfde4aeda.png)
+
+## edit product 
+![image](https://user-images.githubusercontent.com/81756572/205506557-c25bc948-eb09-48c0-8713-16e2c64abd40.png)
+![image](https://user-images.githubusercontent.com/81756572/205506589-49002257-cb1a-4030-b6d2-b3a27505b6fe.png)
+![image](https://user-images.githubusercontent.com/81756572/205506603-92ac47e0-0aae-4e12-aa7c-4cd134eb6a7c.png)
+
+## Search 
+![image](https://user-images.githubusercontent.com/81756572/205506640-d8fe406b-4713-4043-8fa1-5a105bc82286.png)
 
 
+# Keyloak
 
