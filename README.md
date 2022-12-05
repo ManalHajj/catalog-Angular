@@ -173,7 +173,7 @@ accéder à la console d'administration
 ![image](https://user-images.githubusercontent.com/81756572/205689294-c37bdabf-c57c-4793-ae3a-def7d19c250a.png)
 
 ## security 
-###backend
+### backend
 ![image](https://user-images.githubusercontent.com/81756572/205697315-5c878602-a989-4ced-b40f-cec0fffe3293.png)
 
 ### front end
@@ -181,4 +181,7 @@ accéder à la console d'administration
 
 ![image](https://user-images.githubusercontent.com/81756572/205702922-18449b03-8451-43bb-a58b-22d16932fd0b.png)
 
+![image](https://user-images.githubusercontent.com/81756572/205704148-50881079-fe63-4338-9f44-aeeade432d14.png)
+
+![image](https://user-images.githubusercontent.com/81756572/205704285-691b19b7-acdb-4114-8cce-71c8f6883a29.png)
 
