@@ -101,5 +101,79 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ![image](https://user-images.githubusercontent.com/81756572/205506640-d8fe406b-4713-4043-8fa1-5a105bc82286.png)
 
 
-# Keyloak
+# Keycloak
+
+## Démarrer keycloak
+![image](https://user-images.githubusercontent.com/81756572/205649173-b8317fca-84aa-4519-94a0-2b02c9c51c5d.png)
+accéder à la console d'administration 
+![image](https://user-images.githubusercontent.com/81756572/205649295-1e0a9aaf-492c-4469-b808-a323040b231f.png)
+![image](https://user-images.githubusercontent.com/81756572/205649422-62d99712-b9e5-404a-a770-b65cd54d3ff8.png)
+![image](https://user-images.githubusercontent.com/81756572/205649516-ec2aaa01-07cb-403e-8567-4fea960ed449.png)
+
+## Créer un realm
+
+![image](https://user-images.githubusercontent.com/81756572/205653171-569aefa7-cfba-4790-81b3-de76432554e7.png)
+
+## Créer un client
+![image](https://user-images.githubusercontent.com/81756572/205653609-9e0d6758-70ba-483f-b30b-239e116f4d83.png)
+![image](https://user-images.githubusercontent.com/81756572/205653751-13434d0d-0a3a-4960-82a3-d83e7b3247af.png)
+![image](https://user-images.githubusercontent.com/81756572/205654456-1421970b-e1cc-4f0d-96ee-5d76d716c015.png)
+
+## Créer users + mdp
+
+![image](https://user-images.githubusercontent.com/81756572/205654641-8b711a6d-3253-4722-99c8-c3daf07002b0.png)
+![image](https://user-images.githubusercontent.com/81756572/205655043-c322d604-8055-443e-8b97-f8a82859b8cf.png)
+
+![image](https://user-images.githubusercontent.com/81756572/205654812-7ae6966f-4ba6-4d25-9fa5-2b48ec586649.png)
+![image](https://user-images.githubusercontent.com/81756572/205655132-3c1d92f5-9424-4bdc-a9a6-256798eb5b76.png)
+
+## Créer des roles 
+![image](https://user-images.githubusercontent.com/81756572/205655338-71e280c3-2b63-4cf1-b3d7-bef1e687c11f.png)
+![image](https://user-images.githubusercontent.com/81756572/205655419-126705b6-e60a-4138-b245-38cddc39502d.png)
+
+## Assigner des roles aux utilisateurs 
+![image](https://user-images.githubusercontent.com/81756572/205655629-8fcf1da6-0930-4d30-8533-033ecbce77a6.png)
+![image](https://user-images.githubusercontent.com/81756572/205655693-d3422826-1191-4ab5-b92f-08ea718c2f1c.png)
+ 
+## Opend ID connect endpoint configuration
+ ![image](https://user-images.githubusercontent.com/81756572/205657858-1e53969b-30d9-4ae3-af06-523efc94fd04.png)
+
+##Postman
+
+### password authentication
+![image](https://user-images.githubusercontent.com/81756572/205662437-3ad0c0c1-caf5-4793-b5a4-df65c593f53d.png)
+
+![image](https://user-images.githubusercontent.com/81756572/205662375-cdbd3255-1596-44aa-a43e-d9a20880f20f.png)
+
+![image](https://user-images.githubusercontent.com/81756572/205662548-3f0c4387-b293-49b4-8897-11ca6eb07fb0.png)
+
+## contenu de l'Access-Token
+![image](https://user-images.githubusercontent.com/81756572/205664428-cc95dee3-6256-47cb-a810-3bde920ec834.png)
+
+## contenu du Refresh Token 
+![image](https://user-images.githubusercontent.com/81756572/205663207-19d3053a-21c8-4fd2-9984-55b6d3e88204.png)
+![image](https://user-images.githubusercontent.com/81756572/205663421-e4c5d88a-2680-4ff4-81ff-6230cecb88fd.png)
+
+## Access token authentication
+![image](https://user-images.githubusercontent.com/81756572/205664966-69a857f2-b0e9-4217-8ad1-507d27801c42.png)
+
+## Client authentication 
+![image](https://user-images.githubusercontent.com/81756572/205665550-107b8b3e-428a-4313-b18f-726c3723de5b.png)
+![image](https://user-images.githubusercontent.com/81756572/205665661-8506cb4f-96a0-4b5b-a8aa-efe151578c72.png)
+
+![image](https://user-images.githubusercontent.com/81756572/205666285-ee428140-b1f7-4073-aa12-ce51c683cb61.png)
+![image](https://user-images.githubusercontent.com/81756572/205666380-ffeca794-68db-4b31-8365-1fdfaa367614.png)
+
+#Sécuriser les micro-services et le frontend angular en déployant les adaptateurs Keycloak
+### dependencies 
+![image](https://user-images.githubusercontent.com/81756572/205687177-c153c5eb-e549-445e-9356-931a0fb8e3f2.png)
+### app.properties
+![image](https://user-images.githubusercontent.com/81756572/205689115-aa9e61d8-b05e-44ad-9996-f2b44f52d638.png)
+### désactiver ssl de keyloak
+![image](https://user-images.githubusercontent.com/81756572/205689294-c37bdabf-c57c-4793-ae3a-def7d19c250a.png)
+
+## security 
+![image](https://user-images.githubusercontent.com/81756572/205697315-5c878602-a989-4ced-b40f-cec0fffe3293.png)
+
+
 
