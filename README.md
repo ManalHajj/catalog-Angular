@@ -1,4 +1,7 @@
-# Travail à faire :
+
+#Activité Pratique du Contrôle
+
+## Travail à faire :
 ### 1.Créer le micro-service customer-service qui permet de gérer les client
 ### 2.Créer le micro-service inventory-service qui permet de gérer les produits
 ### 3. Créer la Gateway Spring cloud Gateway avec une Configuration statique du système de routage
@@ -18,6 +21,10 @@
 ### 11. Livrable : Un Repository Github contenant :
 ###    - Le code sources de l'ensemble des micro-services et du frontend
 ###    - Le rapport montrant les différentes étapes dans le fichier README.MD
+
+![image](https://user-images.githubusercontent.com/81756572/207118352-1dc67c12-4fd2-4f8e-b45b-505ebe83f4c8.png)
+
+#Microservices :
 
 ## customer-service
 ![image](https://user-images.githubusercontent.com/81756572/201520907-d181227e-00eb-4008-87e6-0883d2caec19.png)
