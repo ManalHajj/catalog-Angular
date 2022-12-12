@@ -12,7 +12,6 @@ import { NewProductComponent } from './new-product/new-product.component';
 import { EditProductComponent } from './edit-product/edit-product.component';
 import {KeycloakAngularModule, KeycloakService} from "keycloak-angular";
 import { BillingComponent } from './billing/billing.component';
-import { NavbarComponent } from './navbar/navbar.component';
 
 export function kcFactory(kcService : KeycloakService){
   return()=>{
@@ -40,8 +39,7 @@ export function kcFactory(kcService : KeycloakService){
     AdminTemplateComponent,
     NewProductComponent,
     EditProductComponent,
-    BillingComponent,
-    NavbarComponent
+    BillingComponent
   ],
   imports: [
     BrowserModule,
