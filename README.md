@@ -185,3 +185,8 @@ accéder à la console d'administration
 
 ![image](https://user-images.githubusercontent.com/81756572/205704285-691b19b7-acdb-4114-8cce-71c8f6883a29.png)
 
+## AuthGuard
+### permet de protéger la route en fonction des roles
+![image](https://user-images.githubusercontent.com/81756572/207033067-e276702c-b00d-48eb-a3ec-68daf2c2bd34.png)
+
+![image](https://user-images.githubusercontent.com/81756572/207033123-6805b181-f058-4ae9-9fc2-33cab2afb688.png)
