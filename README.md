@@ -190,3 +190,31 @@ accéder à la console d'administration
 ![image](https://user-images.githubusercontent.com/81756572/207033067-e276702c-b00d-48eb-a3ec-68daf2c2bd34.png)
 
 ![image](https://user-images.githubusercontent.com/81756572/207033123-6805b181-f058-4ae9-9fc2-33cab2afb688.png)
+
+## Protection des routes
+![image](https://user-images.githubusercontent.com/81756572/207101627-048ab5bb-ab5a-4d13-b5e8-60a5499474aa.png)
+
+## Security service
+![image](https://user-images.githubusercontent.com/81756572/207102177-8e271df7-33b2-4618-9827-3fb6595f7706.png)
+
+## Navbar login & logout
+![image](https://user-images.githubusercontent.com/81756572/207102878-2acdd14a-b905-47ec-937c-ba57ab71023f.png)
+
+![image](https://user-images.githubusercontent.com/81756572/207103046-e64202e2-8f4f-47ce-9040-215fbcdfb657.png)
+
+![image](https://user-images.githubusercontent.com/81756572/207103207-c2b04ffe-c12d-4965-b9f4-d2eeaa5d5248.png)
+
+## Sécuriser delete & set promo 
+![image](https://user-images.githubusercontent.com/81756572/207103511-8fedb0ef-5236-4ec3-9aef-8e112b195547.png)
+![image](https://user-images.githubusercontent.com/81756572/207103620-e6425c09-00ff-42ed-a28e-3b16b66671a3.png)
+
+## Website
+![image](https://user-images.githubusercontent.com/81756572/207110100-764d91df-6455-4d98-a3c1-418bff7c56e5.png)
+
+## Login
+![image](https://user-images.githubusercontent.com/81756572/207110208-ea3bdc36-96c6-44dd-9258-2549d90dcb2f.png)
+
+## After loging in as an Admin
+
+![image](https://user-images.githubusercontent.com/81756572/207110528-bd0687df-f384-4c56-bf90-1fa0f78e9061.png)
+
