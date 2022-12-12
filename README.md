@@ -214,7 +214,7 @@ accéder à la console d'administration
 ## Login
 ![image](https://user-images.githubusercontent.com/81756572/207110208-ea3bdc36-96c6-44dd-9258-2549d90dcb2f.png)
 
-## After loging in as an Admin
+## After logging in as an Admin
 
 ![image](https://user-images.githubusercontent.com/81756572/207110528-bd0687df-f384-4c56-bf90-1fa0f78e9061.png)
 
