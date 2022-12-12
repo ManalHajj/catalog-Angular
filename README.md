@@ -176,7 +176,7 @@ accéder à la console d'administration
 ### backend
 ![image](https://user-images.githubusercontent.com/81756572/205697315-5c878602-a989-4ced-b40f-cec0fffe3293.png)
 
-### front end
+### Keycloak-angular ( front end )
 ![image](https://user-images.githubusercontent.com/81756572/205702798-33dc5e9e-0bf2-4b49-a34b-1b97dd5cdc61.png)
 
 ![image](https://user-images.githubusercontent.com/81756572/205702922-18449b03-8451-43bb-a58b-22d16932fd0b.png)
