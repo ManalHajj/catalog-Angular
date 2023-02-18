@@ -185,3 +185,13 @@ accéder à la console d'administration
 
 ![image](https://user-images.githubusercontent.com/81756572/205704285-691b19b7-acdb-4114-8cce-71c8f6883a29.png)
 
+## Kafka 
+
+### Start zookeeper
+![image](https://user-images.githubusercontent.com/81756572/219864030-399a88b5-e772-4c24-9dd7-9b1eb72f4648.png)
+
+### Start kafka server
+![image](https://user-images.githubusercontent.com/81756572/219864187-cbb1a788-b7af-4bb3-90cd-ae40afe18743.png)
+
+
+
