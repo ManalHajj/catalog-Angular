@@ -9,5 +9,5 @@ import org.springframework.web.bind.annotation.PathVariable;
 public interface CustomerRestClient {
     @GetMapping(path = "/customers/{id}")
     Customer getCustomerById( @PathVariable(name="id") Long id);
-
+// envoie une requette htpp vers le micro service customer-service
 }

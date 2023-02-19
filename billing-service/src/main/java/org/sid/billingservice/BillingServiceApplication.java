@@ -45,11 +45,11 @@ public class BillingServiceApplication {
 				productItem.setProductID(p.getId());
 				productItemRepository.save(productItem);
 			});
-			System.out.println("---------------");
+			/*System.out.println("---------------");
 			System.out.println(customer.getId());
 			System.out.println(customer.getName());
 			System.out.println(customer.getEmail());
-
+*/
 		};
 	}
 
