@@ -196,6 +196,9 @@ accéder à la console d'administration
 ## topic 
 ![image](https://user-images.githubusercontent.com/81756572/219881029-3d764b98-4085-48ae-9568-c26da2db88a0.png)
 
+## Consumer & supplier + kafka streams
+
+![image](https://user-images.githubusercontent.com/81756572/219969952-a2a7e110-d278-410d-9013-be0e82959c06.png)
 
 
 
